@@ -19,6 +19,16 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Professional slot machine experience",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/kirin-xiv/Slots-Release/main/ARR%20-%20HydaelynsFortune/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/kirin-xiv/Slots-Release/main/ARR%20-%20HydaelynsFortune/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/kirin-xiv/Slots-Release/main/ARR%20-%20HydaelynsFortune/latest.zip",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "IconUrl": "",
+  "ImageUrls": [],
+  "Changelog": "Version 1.0.0.0 - Initial release with professional weighted slot system, realistic casino mechanics, and venue management features"
 }
 ]
