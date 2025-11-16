@@ -2,21 +2,22 @@
   "Author": "Kirin",
   "Name": "Hydaelyn's Fortune",
   "InternalName": "HydaelynsFortune",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "Professional casino-style weighted reels and predetermined outcomes for realistic slot machine gameplay.",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "ARR Slot Machine Game - Hydaelyn's Fortune for FFXIV Venue System",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kirin-xiv/Slots",
   "Tags": [
     "venue",
-    "fortune",
-    "eorzean",
-    "entertainment",
-    "wheel"
+    "slots",
+    "casino",
+    "gambling",
+    "minigames"
   ],
   "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Professional slot machine experience",
+  "Punchline": "Experience the thrill of ARR-themed slots!",
   "AcceptsFeedback": true
 }
