@@ -2,7 +2,7 @@
   "Author": "Kirin",
   "Name": "Hydaelyn's Fortune",
   "InternalName": "HydaelynsFortune",
-  "AssemblyVersion": "1.0.0.4",
+  "AssemblyVersion": "1.1.0.7",
   "Description": "ARR Slot Machine Game - Hydaelyn's Fortune for FFXIV Venue System",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/kirin-xiv/Slots",
